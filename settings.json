@@ -1,0 +1,23 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "workbench.sideBar.location": "right",
+  "workbench.iconTheme": "symbols",
+  "workbench.layoutControl.enabled": false,
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": false,
+  "workbench.editor.showTabs": false,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontFamily": "SF Mono",
+  "editor.formatOnSave": true,
+  "editor.smoothScrolling": true,
+
+  "symbols.hidesExplorerArrows": false,
+
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.defaultProfile.linux": "bash",
+
+  "window.title": "🦖 ${dirty}",
+  "window.menuBarVisibility": "hidden"
+}
